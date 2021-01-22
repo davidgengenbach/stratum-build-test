@@ -1,0 +1,3 @@
+.vagrant/
+third_party/*.tgz
+*.log

@@ -1,0 +1,3 @@
+[submodule "third_party/stratum"]
+	path = third_party/stratum
+	url = https://github.com/stratum/stratum.git
